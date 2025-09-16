@@ -7,4 +7,6 @@ Favorite Movies App
 5. `node prisma/seed.js`
 6. Frontend- http://localhost:3000/
 7. Backend- http://localhost:5000 /
+8. Frontend deploy on netlify- https://quiet-churros-317a0a.netlify.app/
+
 
