@@ -1,5 +1,8 @@
 Favorite Movies App
- Quick Start
+Tech Stack: Node.js, Express, MySQL, Prisma ORM, React (Vite), Netlify, Render, Docker
+Description:
+Designed and implemented a production-ready, full-stack web application to manage movies and TV shows. Implemented secure authentication (JWT), admin approval workflows, CRUD operations, and advanced search/filtering with responsive UI.
+Quick Start
 1. `docker-compose up --build -d`
 2. `docker-compose exec backend sh`
 3. `npm install`
